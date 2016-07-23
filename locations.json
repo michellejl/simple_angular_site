@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "city": "Portland",
+    "street": "123 Knotta St",
+    "state": "OR",
+    "zip": "97007",
+    "phone": "503.555.1234"
+  },
+  {
+    "id": 1,
+    "city": "San Fransisco",
+    "street": "456 Curvy Rd",
+    "state": "CA",
+    "zip": "94403",
+    "phone": "408.555.5678"
+  },
+  {
+    "id": 2,
+    "city": "Palm Desert",
+    "street": "789 Melting Blvd",
+    "state": "CA",
+    "zip": "92211",
+    "phone": "760.555.9012"
+  }
+]

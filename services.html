@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row">
+      <div class="col-md-12">
+          <h2>Services</h2>
+          
+          <div ng-repeat="service in services">
+            <div class="row">
+                <div class="col-md-3">
+                  <img src="{{service.image}}" />
+                </div>
+                <div class="col-md-9">
+                  <h4>{{service.name}}</h4>
+                  <p>{{service.description}}</p>
+                </div>
+            </div>
+          </div>
+          
+      </div>
+  </div>
